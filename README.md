@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @codesolutions-dev
-- 👀 I'm a passionate Flutter developer and software engineer,
+- 👀 I'm a passionate Flutter developer and software engineer
 - 🌱 Building beautiful and user-friendly mobile apps
 - ✨ Let's Make Something Awesome Together! ✨
